@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adirayavz1.github.io/projectservices/static/css/main.fb81c0ab.chunk.css",
+    "main.js": "/adirayavz1.github.io/projectservices/static/js/main.6ea3255b.chunk.js",
+    "main.js.map": "/adirayavz1.github.io/projectservices/static/js/main.6ea3255b.chunk.js.map",
+    "runtime-main.js": "/adirayavz1.github.io/projectservices/static/js/runtime-main.a129b716.js",
+    "runtime-main.js.map": "/adirayavz1.github.io/projectservices/static/js/runtime-main.a129b716.js.map",
+    "static/js/2.99f650a4.chunk.js": "/adirayavz1.github.io/projectservices/static/js/2.99f650a4.chunk.js",
+    "static/js/2.99f650a4.chunk.js.map": "/adirayavz1.github.io/projectservices/static/js/2.99f650a4.chunk.js.map",
+    "index.html": "/adirayavz1.github.io/projectservices/index.html",
+    "static/css/main.fb81c0ab.chunk.css.map": "/adirayavz1.github.io/projectservices/static/css/main.fb81c0ab.chunk.css.map",
+    "static/js/2.99f650a4.chunk.js.LICENSE.txt": "/adirayavz1.github.io/projectservices/static/js/2.99f650a4.chunk.js.LICENSE.txt",
+    "static/media/video.93651712.mp4": "/adirayavz1.github.io/projectservices/static/media/video.93651712.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a129b716.js",
+    "static/js/2.99f650a4.chunk.js",
+    "static/css/main.fb81c0ab.chunk.css",
+    "static/js/main.6ea3255b.chunk.js"
+  ]
+}
