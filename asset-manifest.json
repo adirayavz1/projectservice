@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/projectservice/static/css/main.48518290.chunk.css",
-    "main.js": "/projectservice/static/js/main.a40f5201.chunk.js",
-    "main.js.map": "/projectservice/static/js/main.a40f5201.chunk.js.map",
+    "main.js": "/projectservice/static/js/main.00a07bd5.chunk.js",
+    "main.js.map": "/projectservice/static/js/main.00a07bd5.chunk.js.map",
     "runtime-main.js": "/projectservice/static/js/runtime-main.1159d076.js",
     "runtime-main.js.map": "/projectservice/static/js/runtime-main.1159d076.js.map",
-    "static/js/2.10eae4de.chunk.js": "/projectservice/static/js/2.10eae4de.chunk.js",
-    "static/js/2.10eae4de.chunk.js.map": "/projectservice/static/js/2.10eae4de.chunk.js.map",
+    "static/js/2.db7ae3d1.chunk.js": "/projectservice/static/js/2.db7ae3d1.chunk.js",
+    "static/js/2.db7ae3d1.chunk.js.map": "/projectservice/static/js/2.db7ae3d1.chunk.js.map",
     "index.html": "/projectservice/index.html",
     "static/css/main.48518290.chunk.css.map": "/projectservice/static/css/main.48518290.chunk.css.map",
-    "static/js/2.10eae4de.chunk.js.LICENSE.txt": "/projectservice/static/js/2.10eae4de.chunk.js.LICENSE.txt",
+    "static/js/2.db7ae3d1.chunk.js.LICENSE.txt": "/projectservice/static/js/2.db7ae3d1.chunk.js.LICENSE.txt",
     "static/media/logistics.svg": "/projectservice/static/media/logistics.a7305de0.svg",
     "static/media/video.93651712.mp4": "/projectservice/static/media/video.93651712.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.1159d076.js",
-    "static/js/2.10eae4de.chunk.js",
+    "static/js/2.db7ae3d1.chunk.js",
     "static/css/main.48518290.chunk.css",
-    "static/js/main.a40f5201.chunk.js"
+    "static/js/main.00a07bd5.chunk.js"
   ]
 }
